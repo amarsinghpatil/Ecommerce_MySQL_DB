@@ -1,0 +1,15 @@
+# Documentation ignore rules (only keep README.md)
+*.md
+!README.md
+
+# Environment and logs
+*.log
+.env
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
